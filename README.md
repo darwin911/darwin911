@@ -18,22 +18,6 @@ I'm a passionate web/software developer with 5 years of experience, building fro
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 
-## 🌐 Latest Experience
-
-### Ironforge
-
-- Led the development of a bespoke product landing page, creating custom SVGs and utilizing Figma for design.
-- Refactored various pages and components, prioritizing reusability to streamline future development efforts.
-- Implemented and maintained a robust tech stack with Next.js (13.4 - 14), TypeScript, and Tailwind CSS for enhanced scalability and maintainability.
-- Maintained project currency by regularly updating to the latest Next.js versions, ensuring adherence to industry best practices.
-
-### Recur
-
-- Experience with Next.js, Remix, Tailwind, and Material UI.
-- Developed custom components and features for platform and brand-specific clients.
-- Presented feature work in bi-weekly technical engineering demos.
-- Collaborated with developers and non-technical team members to refine and deliver platform features.
-
 ## 📫 Contact
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/darwinpsmith/)
