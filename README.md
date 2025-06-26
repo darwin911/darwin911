@@ -1,22 +1,6 @@
 # Hey there, I'm Darwin 👋
 
-I'm a passionate web/software developer with 5 years of experience, building front-end and full-stack applications. I focus on consistency and quality in my work. I love crafting sleek and efficient solutions to complex problems.
-
-## 🔧 Technologies & Tools
-
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-JavaScript?logo=javascript&style=flat-square&color=gray)
-- ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-- ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-- ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-- ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+I'm a passionate web/software developer with more than 6 years of experience, building front-end and full-stack applications. I focus on consistency and quality in my work. I love crafting sleek and efficient solutions to complex problems.
 
 ## 📫 Contact
 
