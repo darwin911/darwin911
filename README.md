@@ -1,6 +1,6 @@
 # Hey there, I'm Darwin 👋
 
-I'm a passionate web/software developer with more than 6 years of experience, building front-end and full-stack applications. I focus on consistency and quality in my work. I love crafting sleek and efficient solutions to complex problems.
+I'm a passionate web/software developer building front-end and full-stack applications. I focus on consistency and quality in my work. I love crafting sleek and efficient solutions to complex problems.
 
 ## 📫 Contact
 
