@@ -1,6 +1,20 @@
 # Hey there, I'm Darwin 👋
 
-I'm a passionate web/software developer building front-end and full-stack applications. I focus on consistency and quality in my work. I love crafting sleek and efficient solutions to complex problems.
+Senior Software Developer with 7+ years building production **React** and **Next.js** applications across startups, scale-ups, and product companies, including as a founding engineer at a YC-backed startup. I care about the details that often get skipped: accessibility, cross-browser/device compatibility, and UIs that hold up under real usage.
+
+## 🛠 Skills & Tools
+
+`JavaScript (ES6)` `TypeScript` `React` `Next.js` `Remix` `Express / Node.js` `.NET Core` `Tailwind CSS` `Python` `FastAPI` `AWS` `PostgreSQL` `Supabase` `SQL / MySQL` `Redux` `React Query` `Playwright` `Figma` `OpenAI` `Claude / Cursor`
+
+## 💼 Currently
+
+- 🟢 Open to new opportunities — most recently Senior Developer @ [BigPixel](https://www.thebigpixel.net/)
+- 🚀 Past: Founding Engineer at Ruffo (YC S22), Senior Developer at Ironforge, SWE II at RECUR
+- 🤖 AI tooling (Claude Code, Cursor) is a core part of how I build and iterate
+
+## 📄 Resume & Portfolio
+
+See my full experience and project history on my [portfolio](https://www.darwinpsmith.com) and [resume page](https://www.darwinpsmith.com/resume).
 
 ## 📫 Contact
 
@@ -9,18 +23,3 @@ I'm a passionate web/software developer building front-end and full-stack applic
 - [![Email](https://img.shields.io/badge/-Email%20:%20darwinpsmith@gmail.com-black?logo=gmail)](https://www.darwinpsmith.com)
 
 Feel free to explore my repositories and don't hesitate to reach out.
-
-<!--
-**darwin911/darwin911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
